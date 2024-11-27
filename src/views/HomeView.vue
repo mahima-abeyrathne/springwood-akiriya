@@ -142,7 +142,7 @@
     <main>
         <section>
             <h2>Contact Information</h2>
-            <p><strong>Phone:</strong> +947131141 </p>
+            <p><strong>Phone:</strong> +9471831141 </p>
             <p><strong>Email:</strong> demodaravillage@gmail.com</p>
         </section>
 
