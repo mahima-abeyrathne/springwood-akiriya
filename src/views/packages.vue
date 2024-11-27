@@ -20,7 +20,7 @@
         <li>No of Persons: Min - 2 , Max - 6</li>
         <li>Food: Dinner, Breakfast, Lunch </li>
         <li> Activities: 2 activities (your chose)</li>
-        <p><strong>Price:</strong> Rs 3500 Per person for Night</p>
+        <p><strong>Price:</strong> Rs 3000 Per person for Night</p>
         <button type="button" class="a-button"><router-link to="/booking">Book Now</router-link></button>  
     </div>
     <br><br><br>
@@ -30,7 +30,7 @@
         <li>No of Persons: Min - 4 , Max - 16</li>
         <li>Food: Dinner Only</li>
         <li> Activities: all activities (your chose)</li>
-        <p><strong>Price:</strong> 4000 Per person for Night</p>
+        <p><strong>Price:</strong> 3500 Per person for Night</p>
         <button class="a-button"><router-link to="/booking">Book Now</router-link> </button>
     </div>
     <br><br><br>
@@ -40,7 +40,7 @@
         <li>No of Persons: Min - 4 , Max - 16</li>
         <li>Food: Dinner Breakfast Lunch </li>
         <li> Activities: All activities (your chose)</li>
-        <p><strong>Price:</strong> 4500 Per person for Night</p>
+        <p><strong>Price:</strong> 3000 Per person for Night</p>
         <button class="a-button"><router-link to="/booking">Book Now</router-link></button> 
     </div>
 

@@ -99,7 +99,7 @@
             <img src="../assets/t.jpg" width ="400" height ="300" alt="Package 2">
             <font color="#000000">
             <h3>Mini pacakege 2</h3>
-            <p><strong>Price:</strong> Rs 7500 Per Night</p>
+            <p><strong>Price:</strong> Rs 3000 Per Night</p>
           </font>
         </li>
 		<br>
@@ -108,7 +108,7 @@
             <img src="../assets/p.jpg" width ="400" height ="300" alt="Package 3">
             <font color="#000000">
             <h3>Large Package 1</h3>
-            <p><strong>Price:</strong>  Rs 10500 Per Night</p>
+            <p><strong>Price:</strong>  Rs 3500 Per Night</p>
           </font>
         </li>
 		<br>
@@ -116,7 +116,7 @@
             <img src="../assets/a.jpg" width ="400" height ="300" alt="Package 3">
             <font color="#000000">
             <h3>Large Package 2</h3>
-            <p><strong>Price:</strong>  Rs 20500 Per Night</p>
+            <p><strong>Price:</strong>  Rs 3000 Per Night</p>
             </font>
         </li>
         </ul>
