@@ -78,6 +78,11 @@
             <img src="../assets/o.jpg" width ="400" height ="300" alt="cycling">
             <center><h2><font color="#000000">Cycling</font></h2> </center>
         </li>
+
+        <li>
+            <img src="../assets/atv.jpg" width ="400" height ="300" alt="cycling">
+            <center><h2><font color="#000000">ATV Ride</font></h2> </center>
+        </li>
     </ul>
 </div>
 
