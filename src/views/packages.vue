@@ -7,40 +7,40 @@
     <div class="package1-container">
         <img src="../assets/b.jpg" width ="400" height ="300" alt = "Package 1">
         <h3>Camping Mini pacakege 1</h3>
-        <li>No of Persons: Min - 2 , Max - 6</li>
+        <li>No of Persons: Min - 1 , Max - 3</li>
         <li>Food: Breakfast Only</li>
         <li> Activities: Not included</li>
-        <p><strong>Price:</strong> Rs 2500 Per person for Night</p>
+        <p><strong>Price:</strong> Rs 3500 Per person for Night</p>
         <button class="a-button"><router-link to="/booking">Book Now</router-link></button> 
     </div>
     <br><br><br>
     <div class="package2-container">
         <img src="../assets/t.jpg" width ="400" height ="300" alt = "Package 2">
         <h3>Camping Mini pacakege 2</h3>
-        <li>No of Persons: Min - 2 , Max - 6</li>
+        <li>No of Persons: Min - 3 , Max - 6</li>
         <li>Food: Dinner, Breakfast, Lunch </li>
-        <li> Activities: 2 activities (your chose)</li>
-        <p><strong>Price:</strong> Rs 3000 Per person for Night</p>
+        <li> Activities: All activities (your chose)</li>
+        <p><strong>Price:</strong> Rs 4000 Per person for Night</p>
         <button type="button" class="a-button"><router-link to="/booking">Book Now</router-link></button>  
     </div>
     <br><br><br>
     <div class="package3-container">
         <img src="../assets/p.jpg" width ="400" height ="300"  alt =" Package 3">
         <h3>Camping Large Package 1</h3>
-        <li>No of Persons: Min - 4 , Max - 16</li>
+        <li>No of Persons: Min - 6 , Max - 12</li>
         <li>Food: Dinner Only</li>
         <li> Activities: all activities (your chose)</li>
-        <p><strong>Price:</strong> 3500 Per person for Night</p>
+        <p><strong>Price:</strong> 3250 Per person for Night</p>
         <button class="a-button"><router-link to="/booking">Book Now</router-link> </button>
     </div>
     <br><br><br>
     <div class="package4-container">
         <img src="../assets/a.jpg" width ="400" height ="300" alt = "Package 4">
         <h3>Camping Large Package 2</h3>
-        <li>No of Persons: Min - 4 , Max - 16</li>
+        <li>No of Persons: Min - 12 , Max - 24</li>
         <li>Food: Dinner Breakfast Lunch </li>
         <li> Activities: All activities (your chose)</li>
-        <p><strong>Price:</strong> 3000 Per person for Night</p>
+        <p><strong>Price:</strong> 3500 Per person for Night</p>
         <button class="a-button"><router-link to="/booking">Book Now</router-link></button> 
     </div>
 
