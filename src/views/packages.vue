@@ -62,8 +62,8 @@
 			<a href="https://instagram.com/springwood_akiriya?igshid=MzMyNGUyNmU2YQ==" target="_blank">
 				<img src ="../assets/insta.png" width ="40" height ="40" alt="instagram">
 		    </a>
-            <a href="https://www.linkedin.com/company/demodara-village-pvt-ltd" target="_blank">
-                <img src="../assets/twit.png" width ="40" height ="40" alt="Twitter">
+            <a href="http://www.youtube.com/@demodaravillage5037" target="_blank">
+                <img src="../assets/utube.png" width ="40" height ="40" alt="Youtube">
             </a>
                     </div><br>
         <p>&copy; 2023 SPRINGWOOD </p>
